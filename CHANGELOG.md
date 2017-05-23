@@ -1,3 +1,7 @@
+4.1.3 - 2017-05-23
+==================
+* Rails 5.1 support
+
 4.1.2 - 2016-05-16
 ==================
 * Added Delayed::Worker.queue_attributes
